@@ -1,7 +1,7 @@
 # S-enfile
 
 fast, secure and free file encryptor in C17. 
-## verisons
+## versions
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) CLI & UI;
 
